@@ -8,7 +8,19 @@ Gist:Extended MHI + MSE
 by Di WU: stevenwudi@gmail.com, 2012/03/27
 
 
-
+Citation
+-------
+If you use this toolbox as part of a research project, please cite the corresponding paper
+******************************************************************************************************
+```yaml
+@inproceedings{wu2012one,
+  title={One Shot Learning Gesture Recognition from RGBD Images},
+  author={Wu, Di and Zhu, Fan and Shao, Ling},
+  booktitle={Computer Vision and Pattern Recognition Workshops (CVPRW), 2012 IEEE Computer Society Conference on},
+  year={20123}
+}
+```
+******************************************************************************************************
 
 ******************************************************************************************************
 
